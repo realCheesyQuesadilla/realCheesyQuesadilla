@@ -1,13 +1,8 @@
 ## Hello World 👋  
 
-<br/>
-
-<a href="[https://x.com/quesadilla_exe]">
-<img align="left" alt="quesadilla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
 <br />
 Hi, I'm just your average software developer and cybersecurity hobbyist.  
+<br />
 I'm here to look at code and contribute where I can!  
 
 
