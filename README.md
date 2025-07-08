@@ -1,9 +1,17 @@
 ## Hello World 👋  
 
+<br/>
+
 <a href="[https://x.com/quesadilla_exe]">
 <img align="left" alt="quesadilla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
+<br />
+Hi, I'm just your average software developer and cybersecurity hobbyist.  
+I'm here to look at code and contribute where I can!  
+
+
+![quesadilla's github stats](https://github-readme-stats.vercel.app/api?username=srealcheesyquesadilla&show_icons=true&hide_border=true)
 <!--
 **realCheesyQuesadilla/realCheesyQuesadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
