@@ -1,5 +1,6 @@
 ## Hello World 🌮 
 
+![realCheesyQuesadilla cat](https://github.com/](https://github.com/realCheesyQuesadilla/realCheesyQuesadilla/blob/main/assets/cat-coding.gif)
 <br />
 Hi, I'm just your average software developer and cybersecurity hobbyist.  
 <br />
