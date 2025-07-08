@@ -7,8 +7,6 @@ Hi, I'm just your average software developer and cybersecurity hobbyist.
 I'm here to look at code and contribute where I can!  
 
 <br />
-<br />
-
 
 ![quesadilla's github stats](https://github-readme-stats.vercel.app/api?username=realcheesyquesadilla&show_icons=true&hide_border=true)
 <!--
