@@ -4,10 +4,6 @@
 <br />
 Hi, I'm just your average software developer and cybersecurity hobbyist.  
 <br />
-I'm here to read code and contribute where I can!  
-
-<br />
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=realCheesyQuesadilla&theme=2077)
 
 <!--
