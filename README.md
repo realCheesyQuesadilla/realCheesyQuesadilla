@@ -18,7 +18,6 @@
 ## `~$ cat about.txt`
 
 ```yaml
-name:      "[Your Name]"
 handle:    realCheesyQuesadilla
 role:      Security Researcher (in training)
 focus:     [ Offensive Security, CTFs, Linux Internals, Network Security ]
