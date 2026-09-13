@@ -58,20 +58,6 @@ motto:     "there is no patch for curiosity"
 
 <br/>
 
-## `~$ grep -r "credentials" ./ctf_writeups/`
-
-<div align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=000000" /></a>
-<a href="#"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logoColor=00ff41&labelColor=000000" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=ctf&logoColor=00ff41&labelColor=000000" /></a>
-
-*(links go live once profiles are public — swap the `#` above for your real profile URLs)*
-
-</div>
-
-<br/>
-
 ## `~$ ./stats.sh --verbose`
 
 <div align="center">
