@@ -36,11 +36,8 @@ motto:     "there is no patch for curiosity"
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41&labelColor=000000)
 ![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41&labelColor=000000)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=000000)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00ff41&labelColor=000000)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00ff41&labelColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41&labelColor=000000)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=000000)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41&labelColor=000000)
 
 </div>
 
@@ -50,9 +47,8 @@ motto:     "there is no patch for curiosity"
 
 ```diff
 + Linux internals & systems hardening
-+ Network protocol analysis (Wireshark / tcpdump)
-+ Active Directory attack paths
-+ OSCP / PNPT exam prep
++ Linux penetration tools
++ OSCP / CPTS exam prep
 - sleep
 ```
 
